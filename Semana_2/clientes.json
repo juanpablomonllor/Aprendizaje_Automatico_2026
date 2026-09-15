@@ -1,0 +1,44 @@
+[
+    {
+        "id_cliente":"C001",
+        "nombre":"Ana Gómez",
+        "ciudad":"Río Grande",
+        "email":"ana.gomez@email.com"
+    },
+    {
+        "id_cliente":"C002",
+        "nombre":"Carlos Pérez",
+        "ciudad":"Ushuaia",
+        "email":"carlos.perez@email.com"
+    },
+    {
+        "id_cliente":"C003",
+        "nombre":"Laura Martínez",
+        "ciudad":"Río Grande",
+        "email":"laura.martinez@email.com"
+    },
+    {
+        "id_cliente":"C004",
+        "nombre":"Diego Fernández",
+        "ciudad":"Tolhuin",
+        "email":"diego.fernandez@email.com"
+    },
+    {
+        "id_cliente":"C005",
+        "nombre":"Sofía López",
+        "ciudad":"Ushuaia",
+        "email":"sofia.lopez@email.com"
+    },
+    {
+        "id_cliente":"C006",
+        "nombre":"Martín Rodríguez",
+        "ciudad":"Río Grande",
+        "email":"martin.rodriguez@email.com"
+    },
+    {
+        "id_cliente":"C007",
+        "nombre":"Valentina Díaz",
+        "ciudad":"Tolhuin",
+        "email":"valentina.diaz@email.com"
+    }
+]
