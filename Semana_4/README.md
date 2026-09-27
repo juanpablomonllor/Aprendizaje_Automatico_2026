@@ -91,7 +91,6 @@ Semana_4/
 │   ├── datasets/
 │   │   └── demanda-de-electricidad-datos-mensuales.csv
 │   └── notebook/
-│       ├── Actividad_1_Jupyter.zip
 │       └── Regresion_lineal_electricidad.ipynb
 │
 ├── actividad_2/
