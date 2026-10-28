@@ -2,7 +2,7 @@
   <img src="assets/logo-pma.png" width="180" alt="Centro Politécnico Superior Malvinas Argentinas">
 </p>
 
-<h1 align="center">Aprendizaje Automático — Semana 8</h1>
+<h1 align="center">Aprendizaje Automático - Semana 8</h1>
 
 <p align="center">
   <strong>Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial</strong><br>
@@ -11,18 +11,18 @@
 
 ---
 
-### Aprendizaje No Supervisado — Segmentación de clientes con K-Means
+### Aprendizaje No Supervisado - Segmentación de clientes con K-Means
 
 Actividad correspondiente a la **Semana 8** de la materia **Aprendizaje Automático**. Se aplica **K-Means** sobre un dataset de clientes para descubrir, sin etiquetas previas, cuántos grupos de clientes existen y qué perfil tiene cada uno.
 
-## 📌 Objetivos
+## Objetivos
 
 - Aplicar un algoritmo de agrupación sin etiquetas (clustering).
 - Seleccionar las variables relevantes y escalarlas antes de agrupar.
 - Elegir la cantidad de grupos con el método del codo.
 - Interpretar los centroides para describir perfiles de clientes.
 
-## 📊 Actividad realizada
+## Actividad realizada
 
 ### Segmentación de clientes de un comercio online
 
@@ -52,7 +52,7 @@ El desarrollo incluyó:
 
 La frecuencia, el ticket y el tiempo en el sitio son las variables que mejor separan a los grupos. La tasa de devoluciones resultó muy parecida en los tres grupos.
 
-## 📁 Estructura de archivos
+## Estructura de archivos
 
 ```text
 Semana_8/
@@ -69,11 +69,11 @@ Semana_8/
 └── README.md
 ```
 
-## 🗂️ Fuente de los datos
+## Fuente de los datos
 
 Dataset provisto por la cátedra en el campus virtual del Centro Politécnico Superior Malvinas Argentinas.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `Jupyter Notebook`
 
